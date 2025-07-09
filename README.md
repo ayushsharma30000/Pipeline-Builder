@@ -1,4 +1,4 @@
-## Pipeline-Builder
+## Pipeline Builder
 Pipeline Builder is an advanced no-code/low-code visual automation tool designed to simplify the creation of data processing and integration workflows. Built with a modern tech stack—React, ReactFlow, Zustand, and FastAPI—the platform empowers users to design, execute, and debug complex pipelines using an intuitive drag-and-drop interface.
 
 
