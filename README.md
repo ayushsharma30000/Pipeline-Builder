@@ -76,3 +76,12 @@ The platform is ideal for:
 • Non-tech users visualizing and managing logic flows
 
 • Educators demonstrating data flow and logic
+
+
+Result:
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/b32c1f9d-e355-4998-b5b8-2d1ceeab056d" />
+<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/5a717935-9e2f-44a9-8c67-a5e7b31950b1" />
+<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/4ca71643-d3a9-4d6e-afea-c3f5e2b27739" />
+
+
+
